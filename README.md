@@ -6,7 +6,7 @@ The SHARP Pack documentation is also available on [https://sharppack.readthedocs
 ## Installation
 The SHARP pack software package can be downloaded from the Github repository. Create a folder and git clone this repository.
 ```
-$ git clone https://github.com/fashakib/SHARP_pack.git
+$ git clone https://github.com/fashakib/SHARP_pack_2.git
 ```
 
 Once the package has been downloaded, navigate to the directory containing the package and run the following command:
