@@ -1,0 +1,41 @@
+#SHARP Pack INPUT PARAMETERS
+model  spinboson 0.0 1.0 104.25
+
+spectra debye 1 1 2.0
+
+nParticle  100
+
+nbeads  4
+
+approx  CA
+
+nmode  matrix
+
+iseed  12345
+
+nsteps  20670
+
+ntraj  1000
+
+ncore  1
+
+tstep  1.0
+
+rsamp  gaussian
+rmode  norm
+rmap   no
+
+vsamp  gaussian
+
+VReverse  always
+
+Vrescale  BL
+
+decoherence  none
+
+rundtail  Yes
+
+iprint  10
+
+finish
+

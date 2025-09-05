@@ -1,0 +1,31 @@
+#############################
+#SHARP pack input parameter
+#############################
+model  db2lchain
+
+nParticle  20
+
+nbeads  1
+
+nmode  matrix
+
+iseed  12345
+
+ncore  1
+
+tstep  10.0
+
+nsteps  206700
+
+ntraj  100
+
+temperature  500.0
+
+rsamp  gaussian
+
+vsamp  gaussian
+
+iprint  100
+
+finish
+

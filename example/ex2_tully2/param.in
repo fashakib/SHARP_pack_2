@@ -1,0 +1,35 @@
+#############################
+#SHARP pack input parameter
+#############################
+model  tully2
+
+nParticle  1
+
+nbeads  4
+
+approx  CA
+
+nmode  matrix
+
+iseed  12345
+
+ncore  4
+
+tstep  1.0
+
+nsteps  3000
+
+ntraj  1000
+
+pinit  15.0
+
+rsamp  gaussian
+
+vsamp  fixed
+
+rundtail  Yes
+
+iprint  10
+
+finish
+
